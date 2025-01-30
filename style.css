@@ -1,0 +1,12 @@
+button#start {
+    background-color: rgb(139, 199, 139);
+    font-size: 18px;
+}
+
+.choices {
+    margin-top: 10px;
+}
+
+input {
+    width: 30px;
+}
