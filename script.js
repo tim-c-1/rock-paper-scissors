@@ -14,7 +14,7 @@ function getComputerChoice(){
 // console.log(getComputerChoice());
 
 function getHumanChoice(){
-    let choice = prompt("Enter choice: ").toLowerCase()
+    let choice = prompt("Rock/Paper/Scissors?").toLowerCase()
     if (choice == ""){
         choice = "rock" //default choice to rock
     }
